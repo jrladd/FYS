@@ -1,0 +1,46 @@
+---
+title: "Information Overload!"
+subtitle: <a class="btn btn-outline-info" href="schedule.qmd">Schedule</a> <a class="btn btn-outline-info" href="assignments.md">Assignments</a> <a class="btn btn-outline-info" href="policies.md">Course Policies</a> <a class="btn btn-outline-info" href="https://sakai.washjeff.edu">Sakai</a>
+toc: false
+title-block-banner: newspaper.jpg
+title-block-banner-color: white
+---
+
+::: {.card .border-primary .mb-3}
+
+:::: {.card-body}
+
+FYS 199-06. Washington & Jefferson College. Fall 2025.
+
+**Meeting Time: MWF 2:20-3:30pm**
+
+**Dr. Ladd’s Student Drop-In Hours: MW 10am–12pm TECH 201**  
+**or email for appointment, jladd@washjeff.edu**
+
+::::
+
+:::
+
+## Course Description
+
+How many notifications do you get on your phone every day? How many messages have you received to help you prepare to start college? How many emails, apps, websites, and services are you expected to keep track of in your daily life? Our day-to-day lives are saturated with information, and it can be overwhelming to process it all! 
+
+This class will explore the anxiety, exhaustion, and unease brought on by information technologies. We will trace emotional responses—in film, television, and literature—to technological change, from the shock of the printing press to the malaise of the smartphone. We’ll also think about what it means to process and filter information as a college student in 2025, with concrete strategies that you can take with you as you navigate information overload at W&J and beyond.
+
+## Learning Goals
+
+At the end of any FYS course, you should be able to:
+
+- Apply methods of inquiry and develop skills appropriate to the specific FYS section (see below).
+- Apply methods of inquiry and develop skills needed for college courses generally, such as close reading, critical thinking, communication skills, information literacy, and analysis of textual evidence.
+- Articulate the meaning of “liberal arts” and connect that meaning to experiences in and out of the classroom.
+- Understand the W&J curriculum, and begin to develop short-term, intermediate-term, and long-term academic plans.
+- Understand ways to benefit from and contribute to diverse learning communities including the specific FYS section and the College community.
+
+At the end of *our* FYS course, you should be able to:
+
+- Understand the long history of information overload.
+- Analyze literary and cultural accounts of information overload in our course texts.
+- Summarize your own experience of and response to information overload in our present moment.
+
+<small>Banner image: [Printing a Newspaper](https://www.flickr.com/photos/newspaperclub/8147325830) from Newspaper Club on Flickr</small>
