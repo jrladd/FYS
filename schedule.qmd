@@ -4,32 +4,33 @@ title: "Schedule & Readings"
 
 ## Books and Materials
 
-There are no required texts for this course. Consider this resource (from the B.C. Open Textbook Collection) for supplemental reading: [Database Design – 2nd Edition](https://opentextbc.ca/dbdesign01/open/download?type=pdf), by Adrienne Watt and Nelson Eng.
+There's only one required book for this course:
 
-**Slideshows**: [Databasics](slides/databasics.qmd), [SQL](slides/sql.qmd)  
-**Resources**: [Login to Postgres](login.qmd), [Design a Database](design.qmd)
+Emily St. John Mandel. *Station Eleven* (ISBN 0804172447)
+
+The rest of the readings will be linked below or available on Sakai.
 
 ## Class Schedule
 
-*You should come to class each day having looked over the links listed for that day. Days marked with two asterisks (\*\*) are required attendance days (see [Course Policies](policies.qmd#attendance-participation) for more info).*
+*All readings without links can be found on our [Sakai site](https://sakai.washjeff.edu/), under Resources.*
 
 Dates|Monday|Wednesday|Friday
 -|---|---|---
-27 & 29 Aug.||Introductions|What is Information Overload?, [Don't Touch That Dial!](https://slate.com/technology/2010/02/a-history-of-media-technology-scares-from-the-printing-press-to-facebook.html)
+27 & 29 Aug.||Introductions|What is Information Overload?; [Don't Touch That Dial!](https://slate.com/technology/2010/02/a-history-of-media-technology-scares-from-the-printing-press-to-facebook.html)
 1–5 Sept.|NO CLASS on Monday|[*Only Connect*](https://research.ebsco.com/linkprocessor/plink?id=20e46c8b-132f-34ba-ac76-6da1f51f8b83)|Information & the Liberal Arts
-8-12 Sept.|Story of Your Life|Story of Your Life|clips from *Arrival*, excerpts from *Phaedrus* 
-15-19 Sept.|Academic Information Overload!; College Systems|Email|Study Skills, **Writing Center**
-22-26 Sept.|Areopagitica|Areopagitica|**Library Visit**, ***Info Literacy Narrative*** Due
-29 Sept.-3 Oct.|NO CLASS on Monday|Dickinson|Dickinson, [When Novels Were Bad For You](https://archive.nytimes.com/op-talk.blogs.nytimes.com/2014/09/14/when-novels-were-bad-for-you/) ***First Reading Log Review***
-6-10 Oct.|[Douglass Ch. 1](https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/text/chapter-1)|**Title IX**|“ChatGPT is a Blurry JPEG of the Web” (pdf) ***Good Essay/Bad Essay***
+8-12 Sept.|Story of Your Life (through page 119)|Story of Your Life (to the end)|clips from *Arrival*; excerpts from *Phaedrus* 
+15-19 Sept.|Academic Information Overload!; College Systems|Email|Study Skills; **Writing Center**
+22-26 Sept.|[The Battle of the Books](https://en.wikisource.org/wiki/The_Battle_of_the_Books_and_Other_Short_Pieces/The_Battle_of_the_Books) (up to paragraph #28)|[The Battle of the Books](https://en.wikisource.org/wiki/The_Battle_of_the_Books_and_Other_Short_Pieces/The_Battle_of_the_Books) (to the end)|**Library Visit**; ***Info Literacy Narrative*** Due
+29 Sept.-3 Oct.|NO CLASS on Monday|Dickinson|Dickinson; [When Novels Were Bad For You](https://archive.nytimes.com/op-talk.blogs.nytimes.com/2014/09/14/when-novels-were-bad-for-you/); ***First Reading Log Review***
+6-10 Oct.|[Douglass Ch. 1](https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/text/chapter-1)|**Title IX**|“ChatGPT is a Blurry JPEG of the Web”; ***Good Essay/Bad Essay***
 13-17 Oct.|[Douglass Ch. 6](https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/text/chapter-6)|[Douglass Ch. 7](https://standardebooks.org/ebooks/frederick-douglass/narrative-of-the-life-of-frederick-douglass/text/chapter-7)|**Health & Counseling** 
 22 & 24 Oct.|NO CLASS (Fall Break)|*Station Eleven*|*Station Eleven*
 27-31 Oct.|*Station Eleven*|*Station Eleven*|**Center for Professional Pathways**
-3-7 Nov.|W&J Curriculum, 4-year course planning|*Station Eleven*|*Station Eleven*
+3-7 Nov.|W&J Curriculum; 4-year course planning|*Station Eleven*|*Station Eleven*
 10-14 Nov.|4-year plans due and discussion|Advising meetings|Advising meetings
-17-21 Nov.|Advising Meetings|*Station Eleven*, Advising Troubleshoot|*Station Eleven*
+17-21 Nov.|Advising Meetings|*Station Eleven*; Advising Troubleshoot|*Station Eleven*
 24 Nov.|Optional Conferences|NO CLASS on Wednesday|NO CLASS on Friday
-1-5 Dec.|"Is Google Making Us Stupid?"|TBD ***Second Reading Log Review***|Presentations
+1-5 Dec.|"Is Google Making Us Stupid?"|***Second Reading Log Review***|Presentations
 8 Dec.|Presentations, ***Museum of Civilization Essay*** Due
 
 : {.striped .hover}
