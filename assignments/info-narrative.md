@@ -11,7 +11,6 @@ A successful narrative will (1) have a hook that draws the reader in, (2) talk a
 
 ## Requirements
 
-
 - Submit your essay to the assignment on Sakai.
 - 750 words, give or take 20 words on either side. The goal here is to meet the expectation for length as close to exactly as possible, just as if you were writing for a magazine or web publication.
 - Include the wordcount in the header of your paper

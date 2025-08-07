@@ -24,7 +24,7 @@ Each class must create its own learning community as the result of shared effort
 
 Good participation should be understood as consistent and thoughtful contribution to the classroom community, an engagement with course materials and conversations, and a general responsiveness to (and respect for) one’s fellow students and instructor. This isn’t an accounting of how often you speak in class. Instead, it’s about what you offer to the intellectual life of the class, and everyone contributes to this on-going work in different ways.
 
-You'll get participation credit simply for attending class and doing the work with care. Some days the full class will meet for the entire time, and other days we will meet in groups for only part of the class. You are responsible to attend all of your group times as well as all of the full-class sessions.
+You'll get participation credit simply for attending class and doing the work with care. You are responsible to attend all of the class sessions.
 
 **You can miss 5 class sessions without penalty, and you don't need to contact me if you have missed or will miss a class**. This is a generous policy that should cover absences due to illness, sports, academic trips, interviews, etc. If you have a special case, such as having to isolate due to COVID, contact me as soon as possible.
 

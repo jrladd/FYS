@@ -17,6 +17,6 @@ Class Participation & Event Attendance|25%
 Info Literacy Narrative|20%
 Reading Log|15%
 Good Essay/Bad Essay|15%
-Historicizing Assignment (Group & Individual)|25%
+Museum of Civilization Assignment (Group & Individual)|25%
 
 : {.striped .hover}
