@@ -76,15 +76,15 @@ I encourage you to email me anytime with questions or thoughts about the class. 
 
 What we do in college is not easy, on many fronts. Students are challenged with feelings of depression, anxiety, and self harm at astonishingly high rates. Learning is hard, and you will likely be challenged in college in ways that you haven’t experienced before. Learning while life is hard is even harder. Please take care of yourself. Drink water, eat well, and get more than seven hours of sleep. Have some hobbies, but don’t feel the need to do *everything*. If you are feeling depressed, withdrawn, anxious, like an impostor, or you are having specific problems with harassment, assault, bias, etc., please seek help. There are many resources on campus, and my door and email are always open.
 
-W&J faculty and staff recognize that mental or physical health concerns can affect any of us, and sometimes make it difficult for students to manage their academics or daily life.  If you find yourself struggling this semester, please let me know.  I am one of many people here at W&J who care about you and your welfare.
+W&J faculty and staff recognize that mental or physical health concerns can affect any of us and sometimes make it difficult for students to manage their academics or daily life. If you find yourself struggling this semester, please let me know. I am one of many people here at W&J who care about you and your welfare. 
 
-Please also consider contacting the Student Health & Counseling Center (724) 223-6107 or the 24/7/365 Counseling Support Line (833) 434-1217, for support if you’re feeling stressed, overwhelmed, anxious, depressed, lost, or are struggling with personal issues.  Services are free and confidential.
-
-Students have access to free, confidential in-the-moment counseling, self-help, and meditation programs including the prepaid version of HeadSpace, and online therapy options via (833) 434-1217 or the CampusWell app that you can download to your phone.
+- Please also consider contacting the Crabtree Center for Student Wellbeing at (724) 223-6107 or [scheduling online through MyW&J](https://mywj.washjeff.edu/office/Student-Counseling).
+- The Center for Wellbeing offers both in-person and telehealth counseling options if you’re feeling stressed, overwhelmed, anxious, depressed, lost, or are struggling with personal issues. Telehealth therapy can be accessed through our partnership with [BetterMynd](https://www.bettermynd.com/). These sessions are free and confidential.
+- As a student, you also have access to a 24/7/365 Counseling Support Line (844) 287-6963 if you need to speak to someone immediately. 
 
 ### Disability Support Services
 
-Washington & Jefferson College is committed to providing academic accommodations for students with disabilities. This includes individuals with physical disabilities, learning disabilities, and mental health disorders that meet the definition of a disability under the Americans with Disabilities Act. Students who plan to request accommodations should contact the Director for Academic Success as early as possible, although requests may be made at any time. To determine whether you qualify for accommodations, or if you have questions about services and procedures, please call 724-223-6008 or send an email to dss@washjeff.edu.
+To serve our mission to promote academic excellence, Washington & Jefferson College is committed to providing appropriate accommodations for students with documented disabilities and complies with applicable state and federal laws. Students with disabilities include individuals with physical disabilities, learning disabilities and mental health disorders that meet the definition of a disability under the Americans with Disabilities Act. Students who plan to request accommodations should contact the Director for Academic Success as early as possible, although requests may be made at any time. To determine whether you qualify for accommodations, or if you have questions about services and procedures, contact the Director for Academic Success at 724-223-6008 or dss@washjeff.edu.
 
 ### W&J Library
 
