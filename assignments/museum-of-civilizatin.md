@@ -22,12 +22,12 @@ In the individual essay, you'll continue to work with a character from *Station 
 
 Find an article about a contemporary or historical anxiety around information overload. This will be easiest if it refers to a specific information technology, like the smartphone, the printing press, chatbots, novels, or television. Your essay should connect that technological anxiety to your chosen character. In what way do you see this character as reflecting the real-world feeling you've chosen to write about? What might the character's actions in the novel teach us about responding to information overload?
 
-Your essay should be 1500-2000 words (put the wordcount in your header), use [MLA citations and format](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_general_format.html), and be uploaded to Sakai as a PDF file.
+Your essay should be 1200-1500 words (put the wordcount in your header), use [MLA citations and format](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_general_format.html), and be uploaded to Sakai as a PDF file.
 
 ## Requirements
 
 - Submit your essay to the assignment on Sakai
-- 1500-200 words
+- 1200-1500 words
 - Include the wordcount in the header of your paper
 - Double-spaced, readable font
 - Use MLA Style for citations, headers, and page numbers
