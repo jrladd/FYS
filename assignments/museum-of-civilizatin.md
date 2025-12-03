@@ -14,7 +14,7 @@ This assignment will be in two stages: a group presentation and an individual es
 
 You'll be split into groups of three, and each group will be assigned a character from the novel at random. Your presentation will summarize this character's role in the novel and connect them to the themes of our course. How has this character grappled with information overload? How have they dealt with catastrophic change in the world around them?
 
-Your presentation should include specific examples from the novel as well as clear connections to one or more of our other readings from the semester.
+Your presentation should about 10–15 minutes (with a brief Q&A afterwards) and include specific examples from the novel as well as clear connections to one or more of our other readings from the semester.
 
 ## Individual Essay (60pts)
 
